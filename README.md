@@ -1,7 +1,7 @@
-Weather Dashboards
+
 Project Title
 
-Weather Dashboard Using JavaScript and REST API
+Weather Dashboard 
 
 Objective
 
